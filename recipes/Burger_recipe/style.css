@@ -1,0 +1,41 @@
+.titles {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightsalmon;
+    text-align: center;
+}
+
+img {
+
+    width: 400px;
+    height: auto;
+}
+
+.Desc {
+    font-size: 30px;
+}
+
+.Ing {
+    font-size: xx-large;
+    text-align: center;
+}
+
+.para {
+   color: lightcoral;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.dots {
+    text-align: center;
+}
+
+.un-list {
+    list-style-position: inside;
+    border-style: dashed;
+    text-align: center;
+}
+
+.or-list {
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightblue;
+}
